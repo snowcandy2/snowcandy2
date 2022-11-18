@@ -1,6 +1,6 @@
 # About
 
-Github alt: @zixi123
+Github alt (for personal stuff): <a href="//github.com/snowcandy1">@snowcandy1</a>
 
 <!---
 - 👋 Hi, I’m @snowcandy2
