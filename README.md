@@ -1,17 +1,25 @@
-# About
+# About me
 
-Github alt (for personal stuff): <a href="//github.com/snowcandy2">@snowcandy2</a>
+Main account. Used for own projects, homeworks, and some other stuff: <img src="https://img.shields.io/github/followers/snowcandy2?logo=github&style=for-the-badge&color=ffffff&labelColor=000000"
+/>
 
-Chinese projects: <a href="//github.com/snowcandy1">@snowcandy1</a>
+Graduate student in progress, majoring in Computer Science. 
 
-<!---
-- 👋 Hi, I’m @snowcandy2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👁 Mainly doing backend development in multiple projects. 
 
+- 🐱 Currently in United States, expected to graduate in 2024.
 
-snowcandy2/snowcandy2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐙 Now working on the development of <a href="//spla.tools">Chinese Splatoon 3 community</a> website (mainly backend)
+
+- More lost projects on my alt account: <a href="//github.com/snowcandy1">@snowcandy1</a> <img src="https://img.shields.io/github/followers/snowcandy1?logo=github&style=for-the-badge&color=ffffff&labelColor=000000"
+/>
+
+# Stats
+
+#### Main Account
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=snowcandy2&layout=compact)]() [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcandy2&layout=compact)]()
+
+#### Sub Account
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=snowcandy2&layout=compact)]() [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcandy2&layout=compact)]()
