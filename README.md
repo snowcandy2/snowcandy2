@@ -22,4 +22,4 @@ Graduate student in progress, majoring in Computer Science.
 
 #### Sub Account
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=snowcandy2&layout=compact)]() [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcandy2&layout=compact)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=snowcandy1&layout=compact)]() [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcandy1&layout=compact)]()
